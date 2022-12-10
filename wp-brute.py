@@ -1,6 +1,5 @@
 import requests
 import sys
-import threading
 
 out = str()
 url = '127.0.0.1'
