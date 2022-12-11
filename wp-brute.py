@@ -6,7 +6,7 @@ url = '127.0.0.1'
 cookie = {'wordpress_test_cookie': 'WP+Cookie+check'}
 data = {
 	'log': 'admin',
-	'pwd': '',
+	'pwd': 'password',
 	'wp-submit': 'Log+In',
 	'testcookie': '1'
 }
